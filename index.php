@@ -7,6 +7,7 @@
   category_tbl.m_category_id = course_tbl.course_category order by course_order ASC limit 3";
  $res = mysql_query($sql,$con);
 ?>
+oye
 <!--/header-->
 <!-- main-slider -->
 <section class="w3l-main-slider" id="home">
