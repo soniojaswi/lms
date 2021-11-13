@@ -8,6 +8,9 @@
  $res = mysql_query($sql,$con);
 ?>
 oye
+byw
+
+
 <!--/header-->
 <!-- main-slider -->
 <section class="w3l-main-slider" id="home">
